@@ -1,3 +1,5 @@
+package threads;
+
 class Process3 extends Thread{
 
     int i;
